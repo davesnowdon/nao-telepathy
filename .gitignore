@@ -19,3 +19,6 @@
 *.exe
 *.out
 *.app
+
+# NAO
+build-linux64-1.22
