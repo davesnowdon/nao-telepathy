@@ -21,4 +21,4 @@
 *.app
 
 # NAO
-build-linux64-1.22
+build*
